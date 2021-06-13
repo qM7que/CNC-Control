@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PDI_Tarea2.Cache">
+    <Position X="7.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAIBAAIBCCAgAAoAIAAAABAAGAAAAAABAAAAGgAAgA=</HashCode>
+      <FileName>Classes\Cache.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PDI_Tarea2.Colors">
+    <Position X="9" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAwBAAAAAAAAAAAAAAAAEAAAAAAAIAAAAAAAACA=</HashCode>
+      <FileName>Classes\Colors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PDI_Tarea2.ImageFilters">
+    <Position X="14.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAEAAAgQAAASAAAAYQCAEoIRBVAQLYBBAAggwMAAA=</HashCode>
+      <FileName>Classes\ImageFilters.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PDI_Tarea2.Mirror">
+    <Position X="11" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Mirror.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PDI_Tarea2.Program">
+    <Position X="7.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Classes\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PDI_Tarea2.Rotate">
+    <Position X="11" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Rotate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PDI_Tarea2.ScalingAlgorithms">
+    <Position X="13" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgCAAAAAAAAAAAAAAAAEAAAgAAAAAAA=</HashCode>
+      <FileName>Classes\ScalingAlgorithms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PDI_Tarea2.Brightness_Contrast">
+    <Position X="9" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAQACAAABQAAACAAAAKAAAYAAACgGAAAAAAAKA=</HashCode>
+      <FileName>Forms\Brightness_Contrast.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PDI_Tarea2.EdgeDetection">
+    <Position X="14.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAgABAQAACAAAACAAAYAAAAAGAAAAAAACI=</HashCode>
+      <FileName>Forms\EdgeDetection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PDI_Tarea2.Form1" Collapsed="true">
+    <Position X="7.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>Aw2IEDtYhCIgKYSQMGGIWNyCCAgaQELAGACkggJhCCE=</HashCode>
+      <FileName>Forms\MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PDI_Tarea2.Histogram">
+    <Position X="12" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAACAAAAAAAACAEAACIgAAAAAAACAgAABAAAI=</HashCode>
+      <FileName>Forms\Histogram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PDI_Tarea2.Rotation">
+    <Position X="11" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAACAKAgAYAAAAAGAAAABAAAA=</HashCode>
+      <FileName>Forms\Rotation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PDI_Tarea2.Scaling">
+    <Position X="13" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAQAACAAAgCAAAYABACAGAAAAUAAKI=</HashCode>
+      <FileName>Forms\Scaling.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="System.Windows.Forms.Form.ControlCollection" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="PDI_Tarea2.GCODE">
+    <Position X="5.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQAAAAmABCAAARECAAKBAAALASA4AAEQIHAAiAEAYCE=</HashCode>
+      <FileName>Forms\GCODE.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PDI_Tarea2.GravityPoint" Collapsed="true">
+    <Position X="3.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYgA=</HashCode>
+      <FileName>Forms\GCODE.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PDI_Tarea2.Threshold">
+    <Position X="10" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACIAAAAECAAEBAAACCAAAAKIAAYAAAAAGAAAABAAKA=</HashCode>
+      <FileName>Forms\Threshold.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GCODE.CodeGenerator">
+    <Position X="3.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAABgAQAAAAAAACCAAAAAAAAAAEA=</HashCode>
+      <FileName>Classes\GCODE_methods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GCODE.GCODE">
+    <Position X="3.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAkAAAIAABggAAEAAAQAACgAABAkAAAAAAAgEA=</HashCode>
+      <FileName>Classes\GCODE_methods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PDI_Tarea2.Forms.USB">
+    <Position X="16.5" Y="2.25" Width="1.5" />
+    <NestedTypes>
+      <Class Name="PDI_Tarea2.Forms.USB.SendFile" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Forms\USB.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ACAACANHAGAgABACAACQSAgCQQAYQOCwAPICIAgAhAA=</HashCode>
+      <FileName>Forms\USB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheTravelingSalesman.Solvers.NearestNeighborSolver&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAIAAAAAAAAAAAEAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TSP\thetravelingsalesman\solvers\NearestNeighborSolver.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TheTravelingSalesman.Solvers.ParallelBranchBoundSolver&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAIgAAAAAAAAAAMAAAAAAAIAAAAABAAAAgAAAAAEAA=</HashCode>
+      <FileName>TSP\thetravelingsalesman\solvers\ParallelBranchBoundSolver.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
